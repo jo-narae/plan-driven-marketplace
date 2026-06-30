@@ -1,0 +1,18 @@
+{
+  "name": "plan-driven-marketplace",
+  "owner": {
+    "name": "ellen",
+    "email": "kbam.slx.be1@gmail.com"
+  },
+  "metadata": {
+    "description": "ellen의 Claude Code 플러그인 마켓플레이스",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "plan-driven-app-development",
+      "source": "./plugins/plan-driven-app-development",
+      "description": "새 앱을 7단계 기획 후 마일스톤으로 구현하도록 안내하는 스킬."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "plan-driven-app-development",
+  "version": "1.0.0",
+  "description": "새 앱을 7단계 기획(요구사항→페르소나→시나리오→차별화→디자인→아키텍처→계획)으로 진행한 뒤 마일스톤으로 구현하도록 안내하는 스킬.",
+  "author": {
+    "name": "ellen",
+    "email": "kbam.slx.be1@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["planning", "app-development", "skill", "korean", "workflow"]
+}
