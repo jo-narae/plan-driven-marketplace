@@ -56,6 +56,7 @@ Claude Code 안에서 아래 두 명령을 차례로 실행하세요.
 | 플러그인 | 설명 |
 |---|---|
 | plan-driven-app-development | 새 앱을 7단계 기획 후 마일스톤으로 구현하도록 안내하는 스킬 |
+| vercel-cicd | 로컬 프로젝트를 GitHub에 올리고 Vercel에 연결해 CI/CD 자동 배포를 세팅하는 스킬 |
 
 ## 라이선스
 

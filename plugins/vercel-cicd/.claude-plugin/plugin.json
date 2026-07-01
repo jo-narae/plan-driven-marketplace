@@ -1,0 +1,11 @@
+{
+  "name": "vercel-cicd",
+  "version": "1.0.0",
+  "description": "로컬 프로젝트를 GitHub에 올리고 Vercel에 연결해 CI/CD 자동 배포(main 푸시 시 프로덕션 자동 배포)를 세팅하는 스킬.",
+  "author": {
+    "name": "ellen",
+    "email": "kbam.slx.be1@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["vercel", "github", "ci-cd", "deployment", "skill", "korean", "workflow"]
+}
